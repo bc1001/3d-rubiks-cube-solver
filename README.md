@@ -1,6 +1,3 @@
-### 📄 `README.md` 完整内容：
-
-```markdown
 # 🧩 3D Interactive Rubik's Cube Solver (3D 交互式魔方还原求解器)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
